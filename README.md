@@ -3,6 +3,7 @@ Portfolio Activity for Google Cybersecurity Professional Certificate
 
 
 #Activity Overview
+
 In this activity, I conducted an internal security audit to help ensure that security checks are made and to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets. 
 
 #Scenario
